@@ -1,5 +1,5 @@
 - 👋    Hi, I’m Tolu
-- 🌱    I experience in research, data analysis, and program/project development
+- 🌱    I  have experience in research, data analysis, and program/project development
 - 🏫    I'm in my 1st year of college learning data analytics and its use in business!
 - 👀    Look around and view some of the projects I have worked on.
 - 👩💼 Having worked in research and data analysis for more than two years, I am passionate about helping businesses succeed and, most importantly, providing business clients with what they want and attaining overall business success.
