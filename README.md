@@ -1,4 +1,4 @@
-- 👋    Hi, I’m Tolu
+- 👋    Hi
 - 🌱    I  have experience in research, data analysis, and program/project development
 - 🏫    Academic background in Engineering & Analytics!
 - 👀    Look around and view some of the projects I have worked on.
